@@ -1,5 +1,5 @@
 import Card from './components/Card/Card'
-import CardWithImg from './js/cardWithImg'
+import CardWithImg from './js/CardWithImg'
 import CardWithoutImg from './js/CardWithoutImg'
 
 const firstCard = new CardWithImg({
